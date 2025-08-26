@@ -1,0 +1,42 @@
+.ilp-logo {
+  display: flex;
+  align-items: center;
+  line-height: 1.2;
+}
+
+.ilp-logo-gradient-text {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  background: linear-gradient(to bottom, blue 60%, red 40%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.ilp-logo-text {
+  font-size: 15px;
+  color: #222;
+}
+
+.ilp-logo-subtext {
+  font-size: 12px;
+  color: #444;
+}
+
+.services-item .services-content h3 {
+  text-transform: none;
+}
+
+.services-item .services-content {
+  text-align: left;
+}
+
+.services-item .services-content p {
+  margin-bottom: 10px;
+}
+
+.btn-sm {
+  padding: 7px 10px;
+  text-transform: capitalize;
+  font-size: 12px;
+}
