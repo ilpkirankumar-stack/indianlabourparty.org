@@ -4,6 +4,10 @@
   line-height: 1.2;
 }
 
+.ilp-logo-img {
+  padding-right: 5px;
+}
+
 .ilp-logo-gradient-text {
   font-family: Arial, sans-serif;
   font-weight: bold;
