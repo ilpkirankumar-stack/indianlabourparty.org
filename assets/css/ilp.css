@@ -40,3 +40,10 @@
   text-transform: capitalize;
   font-size: 12px;
 }
+
+.row.row-align-middle {
+  align-items: center;
+}
+#testimonials .img-thumb.ilp img {
+  border-radius: 20px;
+}
