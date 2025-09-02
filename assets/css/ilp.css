@@ -51,3 +51,7 @@
 #testimonials .img-thumb.ilp img {
   border-radius: 20px;
 }
+
+nav.navbar {
+  padding: 5px 0 !important;
+}
