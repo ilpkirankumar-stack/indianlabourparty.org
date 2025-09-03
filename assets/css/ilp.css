@@ -55,3 +55,29 @@
 nav.navbar {
   padding: 5px 0 !important;
 }
+
+h1, h2, h3, h4 {
+  font-family: inherit;
+}
+
+section.about-section {
+  padding: 20px 0;
+}
+
+.about-section .container {
+  padding: 20px;
+  border-radius: 0.75rem;
+  background-color: #f9fafb;
+}
+
+b.pbold {
+  color: black;
+}
+
+#pricing .table.images {
+  padding: 0;
+}
+
+#pricing .table .description {
+  padding: 0;
+}
